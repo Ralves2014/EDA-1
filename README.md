@@ -1,2 +1,5 @@
-# EDA-1
-Documentos Estruturas de Dados e Algoritmos 1
+# Descrição EDA-1
+
+Neste repositório estão exercicíos resolvidos em **C**.
+
+Trabalho: **Serviço de Mensagens Curtas Inteligente**.
